@@ -1,0 +1,7 @@
+.grid-search li {
+    display: inline-block;
+    width: 100%;
+    max-width: 32%;
+    vertical-align: top;
+    margin-right: 1%;
+}
